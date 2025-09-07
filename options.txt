@@ -1,0 +1,7 @@
+// DSim
+-top test
++acc
+-waves waves.vcd
+
+// Test bench
+test.sv
